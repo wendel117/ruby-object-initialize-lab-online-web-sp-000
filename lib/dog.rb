@@ -17,4 +17,3 @@ class Dog
   def breed=(dog_breed)
     @breed="Mutt"
   end
-  
