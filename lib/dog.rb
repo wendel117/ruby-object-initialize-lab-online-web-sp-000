@@ -14,10 +14,6 @@ class Dog
     @breed
   end
   def breed=(dog_breed)
-    if @breed = ""
-      @breed="Mutt"
-    else
-      @breed=dog_breed
-    end
+    if @breed=dog_breed
   end
 end
