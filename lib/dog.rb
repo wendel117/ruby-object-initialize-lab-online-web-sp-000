@@ -13,7 +13,7 @@ class Dog
   def breed
     @breed
   end
-  def breed=(dog_breed)
+  def breed=(dog_breed="Mutt")
     if @breed=dog_breed
   end
 end
