@@ -18,5 +18,6 @@ class Dog
       @breed="Mutt"
     else
       @breed=dog_breed
+    end
   end
 end
