@@ -9,4 +9,3 @@ class Person
     @name=person_name
   end
 end
-
